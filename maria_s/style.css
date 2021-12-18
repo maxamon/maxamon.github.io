@@ -1,0 +1,15 @@
+
+ .table2, td {
+  border: 1px solid black;
+ }
+  
+a {
+  text-decoration: none;
+  
+}
+a:hover {
+  text-decoration: underline;
+}
+.item2 {
+margin: 50px
+}
